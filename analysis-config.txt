@@ -1,0 +1,3 @@
+target = synthetic-sample
+threshold = 0.05
+output = results/
