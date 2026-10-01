@@ -1,3 +1,4 @@
 target = synthetic-sample
-threshold = 0.05
+threshold = 0.04
+# Explore sensitivity without advancing main
 output = results/
